@@ -2,6 +2,7 @@
 The COVID-19 pandemic has had a profound impact on the world, resulting in significant loss of lives and widespread disruptions to societies. This project is focused on the analysis of sample data related to COVID-19 cases recorded between January 2019 and December 2020. The dataset is provided in CSV format.
 
 Table of Contents
+
 -Introduction
 -Prerequisites
 -Setting Up the Database
